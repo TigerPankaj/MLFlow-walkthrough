@@ -1,0 +1,15 @@
+artifact_uri: mlruns/495322156973308996/410b26478f344671a7f9583283cec2be/artifacts
+end_time: 1669390149884
+entry_point_name: ''
+experiment_id: '495322156973308996'
+lifecycle_stage: active
+run_id: 410b26478f344671a7f9583283cec2be
+run_name: blushing-cub-734
+run_uuid: 410b26478f344671a7f9583283cec2be
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669390148501
+status: 3
+tags: []
+user_id: tigerpankaj

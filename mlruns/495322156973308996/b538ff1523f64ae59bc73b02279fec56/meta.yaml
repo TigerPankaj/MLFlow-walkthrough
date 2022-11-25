@@ -1,0 +1,15 @@
+artifact_uri: mlruns/495322156973308996/b538ff1523f64ae59bc73b02279fec56/artifacts
+end_time: 1669390148474
+entry_point_name: ''
+experiment_id: '495322156973308996'
+lifecycle_stage: active
+run_id: b538ff1523f64ae59bc73b02279fec56
+run_name: fearless-goat-206
+run_uuid: b538ff1523f64ae59bc73b02279fec56
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1669390146153
+status: 3
+tags: []
+user_id: tigerpankaj
